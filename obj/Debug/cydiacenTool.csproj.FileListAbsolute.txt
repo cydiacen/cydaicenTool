@@ -1,0 +1,46 @@
+c:\users\apple\documents\visual studio 2012\Projects\cydiacenTool\cydiacenTool\bin\Debug\cydiacenTool.exe.config
+c:\users\apple\documents\visual studio 2012\Projects\cydiacenTool\cydiacenTool\bin\Debug\cydiacenTool.exe
+c:\users\apple\documents\visual studio 2012\Projects\cydiacenTool\cydiacenTool\bin\Debug\cydiacenTool.pdb
+c:\users\apple\documents\visual studio 2012\Projects\cydiacenTool\cydiacenTool\obj\Debug\cydiacenTool.Properties.Resources.resources
+c:\users\apple\documents\visual studio 2012\Projects\cydiacenTool\cydiacenTool\obj\Debug\cydiacenTool.csproj.GenerateResource.Cache
+c:\users\apple\documents\visual studio 2012\Projects\cydiacenTool\cydiacenTool\obj\Debug\cydiacenTool.exe
+c:\users\apple\documents\visual studio 2012\Projects\cydiacenTool\cydiacenTool\obj\Debug\cydiacenTool.pdb
+C:\Users\apple\Documents\Visual Studio 2012\Projects\cydiacenTool\cydiacenTool\obj\Debug\cydiacenTool.Form2.resources
+C:\Users\apple\Documents\Visual Studio 2012\Projects\cydiacenTool\cydiacenTool\obj\Debug\cydiacenTool.Form3.resources
+C:\Users\apple\Documents\Visual Studio 2012\Projects\cydiacenTool\cydiacenTool\obj\Debug\cydiacenTool.Form1.resources
+C:\Users\apple\Documents\Visual Studio 2012\Projects\cydiacenTool\cydiacenTool\obj\Debug\cydiacenTool.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.PC-201508031523\Desktop\项目\cydiacenTool\bin\Debug\cydiacenTool.exe.config
+C:\Users\Administrator.PC-201508031523\Desktop\项目\cydiacenTool\bin\Debug\cydiacenTool.exe
+C:\Users\Administrator.PC-201508031523\Desktop\项目\cydiacenTool\bin\Debug\cydiacenTool.pdb
+C:\Users\Administrator.PC-201508031523\Desktop\项目\cydiacenTool\obj\Debug\cydiacenTool.Form1.resources
+C:\Users\Administrator.PC-201508031523\Desktop\项目\cydiacenTool\obj\Debug\cydiacenTool.Form2.resources
+C:\Users\Administrator.PC-201508031523\Desktop\项目\cydiacenTool\obj\Debug\cydiacenTool.Form3.resources
+C:\Users\Administrator.PC-201508031523\Desktop\项目\cydiacenTool\obj\Debug\cydiacenTool.Properties.Resources.resources
+C:\Users\Administrator.PC-201508031523\Desktop\项目\cydiacenTool\obj\Debug\cydiacenTool.csproj.GenerateResource.Cache
+C:\Users\Administrator.PC-201508031523\Desktop\项目\cydiacenTool\obj\Debug\cydiacenTool.exe
+C:\Users\Administrator.PC-201508031523\Desktop\项目\cydiacenTool\obj\Debug\cydiacenTool.pdb
+C:\Users\Administrator.PC-201508031523\Desktop\项目\cydiacenTool\obj\Debug\cydiacenTool.csprojResolveAssemblyReference.cache
+G:\今点文件\项目\cydiacenTool\bin\Debug\cydiacenTool.exe.config
+G:\今点文件\项目\cydiacenTool\obj\Debug\cydiacenTool.exe
+G:\今点文件\项目\cydiacenTool\obj\Debug\cydiacenTool.pdb
+G:\今点文件\项目\cydiacenTool\bin\Debug\cydiacenTool.exe
+G:\今点文件\项目\cydiacenTool\bin\Debug\cydiacenTool.pdb
+G:\今点文件\项目\cydiacenTool\obj\Debug\cydiacenTool.csprojResolveAssemblyReference.cache
+G:\今点文件\项目\cydiacenTool\obj\Debug\cydiacenTool.Form1.resources
+G:\今点文件\项目\cydiacenTool\obj\Debug\cydiacenTool.Form2.resources
+G:\今点文件\项目\cydiacenTool\obj\Debug\cydiacenTool.Form3.resources
+G:\今点文件\项目\cydiacenTool\obj\Debug\cydiacenTool.Properties.Resources.resources
+G:\今点文件\项目\cydiacenTool\obj\Debug\cydiacenTool.csproj.GenerateResource.Cache
+C:\Users\greedy\Desktop\cydiacenTool\bin\Debug\cydiacenTool.exe.config
+C:\Users\greedy\Desktop\cydiacenTool\obj\Debug\cydiacenTool.exe
+C:\Users\greedy\Desktop\cydiacenTool\obj\Debug\cydiacenTool.pdb
+C:\Users\greedy\Desktop\cydiacenTool\bin\Debug\cydiacenTool.exe
+C:\Users\greedy\Desktop\cydiacenTool\bin\Debug\cydiacenTool.pdb
+C:\Users\greedy\Desktop\cydiacenTool\obj\Debug\cydiacenTool.csprojResolveAssemblyReference.cache
+C:\Users\greedy\Desktop\cydiacenTool\obj\Debug\cydiacenTool.Form1.resources
+C:\Users\greedy\Desktop\cydiacenTool\obj\Debug\cydiacenTool.Form2.resources
+C:\Users\greedy\Desktop\cydiacenTool\obj\Debug\cydiacenTool.Form3.resources
+C:\Users\greedy\Desktop\cydiacenTool\obj\Debug\cydiacenTool.Properties.Resources.resources
+C:\Users\greedy\Desktop\cydiacenTool\obj\Debug\cydiacenTool.csproj.GenerateResource.Cache
+C:\Users\greedy\Desktop\cydiacenTool\obj\Debug\cydiacenTool.planTime.resources
+C:\Users\greedy\Desktop\cydiacenTool\obj\Debug\cydiacenTool.CreateFile.resources
