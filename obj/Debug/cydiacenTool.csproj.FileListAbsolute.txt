@@ -44,3 +44,16 @@ C:\Users\greedy\Desktop\cydiacenTool\obj\Debug\cydiacenTool.Properties.Resources
 C:\Users\greedy\Desktop\cydiacenTool\obj\Debug\cydiacenTool.csproj.GenerateResource.Cache
 C:\Users\greedy\Desktop\cydiacenTool\obj\Debug\cydiacenTool.planTime.resources
 C:\Users\greedy\Desktop\cydiacenTool\obj\Debug\cydiacenTool.CreateFile.resources
+C:\Users\greedy\Desktop\cydiacenTool\cydaicenTool\bin\Debug\cydiacenTool.exe.config
+C:\Users\greedy\Desktop\cydiacenTool\cydaicenTool\obj\Debug\cydiacenTool.exe
+C:\Users\greedy\Desktop\cydiacenTool\cydaicenTool\obj\Debug\cydiacenTool.pdb
+C:\Users\greedy\Desktop\cydiacenTool\cydaicenTool\bin\Debug\cydiacenTool.exe
+C:\Users\greedy\Desktop\cydiacenTool\cydaicenTool\bin\Debug\cydiacenTool.pdb
+C:\Users\greedy\Desktop\cydiacenTool\cydaicenTool\obj\Debug\cydiacenTool.csprojResolveAssemblyReference.cache
+C:\Users\greedy\Desktop\cydiacenTool\cydaicenTool\obj\Debug\cydiacenTool.CreateFile.resources
+C:\Users\greedy\Desktop\cydiacenTool\cydaicenTool\obj\Debug\cydiacenTool.Form1.resources
+C:\Users\greedy\Desktop\cydiacenTool\cydaicenTool\obj\Debug\cydiacenTool.Form2.resources
+C:\Users\greedy\Desktop\cydiacenTool\cydaicenTool\obj\Debug\cydiacenTool.Form3.resources
+C:\Users\greedy\Desktop\cydiacenTool\cydaicenTool\obj\Debug\cydiacenTool.planTime.resources
+C:\Users\greedy\Desktop\cydiacenTool\cydaicenTool\obj\Debug\cydiacenTool.Properties.Resources.resources
+C:\Users\greedy\Desktop\cydiacenTool\cydaicenTool\obj\Debug\cydiacenTool.csproj.GenerateResource.Cache
