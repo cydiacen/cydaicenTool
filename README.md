@@ -1,5 +1,5 @@
 # cydaicenTool
-> 本工具主要处理一些日常的小功能，主要运用了.Net WinForm
+> 本工具是个windows桌面可执行程序，主要处理一些日常的小功能，运用了.Net WinForm
 如有问题或者建议 欢迎Issues or Pull requests.
 
 ## 如何使用
